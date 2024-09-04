@@ -1,1 +1,1 @@
-# wildrydes-site
+Fantastic Rides is an AWS serverless application that lets users request rides by specifying their pickup location through an HTML-based interface. It connects to a RESTful backend service for ride dispatch, and users can log in and register before making a request.
